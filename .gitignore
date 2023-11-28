@@ -1,0 +1,10 @@
+./d/*
+
+target/
+
+Cargo.lock
+
+.env
+
+.env.dev
+

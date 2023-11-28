@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+  "buttuh-auth", 
+  "buttuh-io",
+  "buttuh-protocol",
+  "buttuh-connection"
+, "buttuh"]
+
+resolver = "2"
