@@ -3,7 +3,7 @@
 Buttuh is a collection of user-friendly crates for the Minecraft Protocol. 
 
 <p align = "center">
-  <image width = "50%"src = "./butterblock.webp" />
+  <image width = "25%" src = "./butterblock.webp" />
 </p>
 
 ## Features
